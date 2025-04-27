@@ -1,0 +1,3 @@
+set key-zero "line\nbreak"
+get key-zero
+quit

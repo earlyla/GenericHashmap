@@ -1,0 +1,3 @@
+set key-a "value-\"a\""
+get key-a
+quit

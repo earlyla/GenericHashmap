@@ -1,0 +1,3 @@
+set x "2.3"
+size
+quit

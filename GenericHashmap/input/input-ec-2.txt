@@ -1,0 +1,3 @@
+set 000 "value\t3"
+get 000
+quit
